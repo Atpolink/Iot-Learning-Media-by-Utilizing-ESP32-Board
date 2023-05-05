@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=IOT_ver.1 Member=J5
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=R15-2
+Added Net: Name=NetJ4_4
+Added Room: Name=IOT_ver.1

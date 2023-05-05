@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-1
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-2
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-3
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-4
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-5
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-6
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-7
+Removed Pin From Net: NetName=+3.3 Pin=+3.3V-8
+Removed Pin From Net: NetName=+5 Pin=+5V-1
+Removed Pin From Net: NetName=+5 Pin=+5V-2
+Removed Pin From Net: NetName=+5 Pin=+5V-3
+Removed Pin From Net: NetName=+5 Pin=+5V-4
+Removed Pin From Net: NetName=+5 Pin=+5V-5
+Removed Pin From Net: NetName=+5 Pin=+5V-6
+Removed Pin From Net: NetName=+5 Pin=+5V-7
+Removed Pin From Net: NetName=+5 Pin=+5V-8
+Removed Pin From Net: NetName=NetBZ1_P Pin=BZ OUT-1
+Removed Pin From Net: NetName=NetBZ1_P Pin=BZ OUT-2
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GND Pin=GND-2
+Removed Pin From Net: NetName=GND Pin=GND-3
+Removed Pin From Net: NetName=GND Pin=GND-4
+Removed Pin From Net: NetName=GND Pin=GND-5
+Removed Pin From Net: NetName=GND Pin=GND-6
+Removed Pin From Net: NetName=GND Pin=GND-7
+Removed Pin From Net: NetName=GND Pin=GND-8
+Removed Pin From Net: NetName=NetDHT1_1 Pin=LDR-1
+Removed Pin From Net: NetName=NetDHT1_1 Pin=LDR-2
+Removed Pin From Net: NetName=NetD1_POS Pin=LEDs-1
+Removed Pin From Net: NetName=NetD2_POS Pin=LEDs-2
+Removed Pin From Net: NetName=NetD3_POS Pin=LEDs-3
+Removed Pin From Net: NetName=NetD4_POS Pin=LEDs-4
+Removed Pin From Net: NetName=NetD5_POS Pin=LEDs-5
+Removed Pin From Net: NetName=NetD6_POS Pin=LEDs-6
+Removed Pin From Net: NetName=NetD7_POS Pin=LEDs-7
+Removed Pin From Net: NetName=NetD8_POS Pin=LEDs-8
+Removed Pin From Net: NetName=NetJ17_1 Pin=PUSH BUTTON]-1
+Removed Pin From Net: NetName=NetJ17_2 Pin=PUSH BUTTON]-2
+Removed Pin From Net: NetName=NetJ18_1 Pin=PUSH BUTTON]-3
+Removed Pin From Net: NetName=NetJ18_2 Pin=PUSH BUTTON]-4
+Removed Pin From Net: NetName=NetJ19_1 Pin=PUSH BUTTON]-5
+Removed Pin From Net: NetName=NetJ19_2 Pin=PUSH BUTTON]-6
+Removed Pin From Net: NetName=NetJ20_1 Pin=PUSH BUTTON]-7
+Removed Pin From Net: NetName=NetJ20_2 Pin=PUSH BUTTON]-8
+Removed Pin From Net: NetName=NetR16_2 Pin=RELAY-1
+Removed Pin From Net: NetName=NetR17_2 Pin=RELAY-2
+Removed Pin From Net: NetName=Net1_1 Pin=R TRIMPOT-1
+Removed Pin From Net: NetName=Net1_2 Pin=R TRIMPOT-2
+Change Component Designator: OldDesignator= NewDesignator=3
+Change Component Designator: OldDesignator= NewDesignator=4
+Change Component Designator: OldDesignator= NewDesignator=5
+Change Component Designator: OldDesignator= NewDesignator=6
+Change Component Designator: OldDesignator=DHT NewDesignator=DHT2
+Change Component Designator: OldDesignator=OLED NewDesignator=OLED1
+Change Component Designator: OldDesignator=SOIL NewDesignator=SOIL1
+Change component parameters: Designator = "R2"; Footprint = "RESC1005X40N"; UniqueID = "\ERQJAGPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RESC1005X40N"; UniqueID = "\PLQGGOWX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RESC1005X40N"; UniqueID = "\NQNGCDLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20"; Footprint = "RESC1005X40N"; UniqueID = "\JSZZRDQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "RESC1005X40N"; UniqueID = "\AHSQTLNU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RESC1005X40N"; UniqueID = "\XWPQEYTX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RESC1005X40N"; UniqueID = "\FTKMVNZR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "RESC1005X40N"; UniqueID = "\MLUWLXQJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "RESC1005X40N"; UniqueID = "\PCBRBPLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-071R5L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0402JR-071R5L/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0402JR-071R5L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=2-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=IOT_ver.1 Member=Component 3 PPTC151LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component 4 PPTC151LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component 5 PPTC151LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component 6 PPTC151LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component D8 LHN974_RED_LED_1206
+Added Member To Class: ClassName=IOT_ver.1 Member=Component DHT2 TEM-HUM-DHT11(4P-15.5X12.0MM)
+Added Member To Class: ClassName=IOT_ver.1 Member=Component OLED1 PPTC041LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R2 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R18 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R19 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R20 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R21 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R22 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R23 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R24 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component R25 RC0402JR-071R5L
+Added Member To Class: ClassName=IOT_ver.1 Member=Component SOIL1 PPTC041LFBN-RC

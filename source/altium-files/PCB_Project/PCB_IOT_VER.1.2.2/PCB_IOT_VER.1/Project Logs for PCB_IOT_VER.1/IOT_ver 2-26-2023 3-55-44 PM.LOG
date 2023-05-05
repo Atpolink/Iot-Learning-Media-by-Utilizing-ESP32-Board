@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X90 New Footprint=0805-C
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1608X90 New Footprint=C_0.1/250V
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90 New Footprint=C_0.1/250V
+Change Component Footprint: Designator=R2 Old Footprint=RESC1005X40N New Footprint=0805-R
+Change Component Footprint: Designator=R3 Old Footprint=RESC1005X40N New Footprint=0805-R
+Change Component Footprint: Designator=R1 Old Footprint=RESC1005X40N New Footprint=2512-R
+Change Component Footprint: Designator=R11 Old Footprint=RESC1005X40N New Footprint=2512-R
+Change Component Designator: OldDesignator=1 NewDesignator=
+Change Component Designator: OldDesignator=2 NewDesignator=
+Change Component Designator: OldDesignator=3 NewDesignator=
+Change Component Designator: OldDesignator=J2 NewDesignator=OUT
+Change Component Designator: OldDesignator=J3 NewDesignator=DHT11
+Change Component Designator: OldDesignator=J6 NewDesignator=OLED
+Change Component Designator: OldDesignator=J7 NewDesignator=OUT
+Change Component Designator: OldDesignator=K1 NewDesignator=RY1
+Change Component Designator: OldDesignator=K2 NewDesignator=RY2
+Change Component Designator: OldDesignator=LS1 NewDesignator=BZ1
+Change Component Designator: OldDesignator=LS2 NewDesignator=BZ2
+Change Component Designator: OldDesignator=P1 NewDesignator=OUT1
+Change Component Designator: OldDesignator=P2 NewDesignator=OUT2
+Change Component Designator: OldDesignator=U1 NewDesignator=DHT11
+Change Component Designator: OldDesignator=VR1 NewDesignator=

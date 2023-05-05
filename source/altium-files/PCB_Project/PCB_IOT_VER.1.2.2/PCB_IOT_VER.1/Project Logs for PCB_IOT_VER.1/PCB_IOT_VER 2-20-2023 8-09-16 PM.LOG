@@ -1,0 +1,267 @@
+Add Component: Footprint Not Found 0805-C
+Add Component: Footprint Not Found 0805-C
+Add Component: Footprint Not Found 0805-C
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found SOD80
+Add Component: Footprint Not Found 1206-CP
+Add Component: Footprint Not Found SOD80
+Add Component: Footprint Not Found DHL22
+Add Component: Footprint Not Found con 15 pin
+Added Component: Designator=J2(SULLINS_PPTC041LFBN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "S7002-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPTC041LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CON_SIP_GH(2)
+Add Component: Footprint Not Found CON_SIP_GH(2)
+Added Component: Designator=J5(SULLINS_PPPC022LFBN-RC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPPC022LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPPC022LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(SULLINS_PPTC041LFBN-RC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "S7002-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPTC041LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPTC041LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPTC041LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(SULLINS_PPPC022LFBN-RC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPPC022LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPPC022LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found con 15 pin
+Add Component: Footprint Not Found con 15 pin
+Add Component: Footprint Not Found con 15 pin
+Add Component: Footprint Not Found con 15 pin
+Added Component: Designator=J12(SULLINS_PPPC022LFBN-RC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPPC022LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPPC022LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(SULLINS_PPPC022LFBN-RC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PPPC022LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PPPC022LFBN-RC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PPPC022LFBN-RC/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LS1(XDCR_AI-1223-TWT-12V-R)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AI-1223-TWT-12V-R/PUI+Audio%252C+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "PUI Audio,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AI-1223-TWT-12V-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AI-1223-TWT-12V-R/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AI-1223-TWT-12V-R/PUI+Audio%252C+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LS2(XDCR_AI-1223-TWT-12V-R)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AI-1223-TWT-12V-R/PUI+Audio%252C+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "PUI Audio,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AI-1223-TWT-12V-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AI-1223-TWT-12V-R/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AI-1223-TWT-12V-R/PUI+Audio%252C+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "vendor"; Value = "ES:0235-0222-1 (MMBT3904LT1G)"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "vendor"; Value = "ES:0235-0222-1 (MMBT3904LT1G)"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found 0805-R
+Add Component: Footprint Not Found RELAY_S(5)
+Add Component: Footprint Not Found RELAY_S(5)
+Added Component: Designator=VR1(TRIM_3296W-OT1-204)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W-OT1-204/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3296W-OT1-204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W-OT1-204/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=J6-2
+Added Net: Name=+5
+Added Net: Name=+5V
+Added Net: Name=3.3V
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=LS1-N
+Added Pin To Net: NetName=GND Pin=LS2-N
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-3
+Added Net: Name=NetC2_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_1
+Added Net: Name=NetD2_2
+Added Net: Name=NetD3_1
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_1
+Added Net: Name=NetD4_2
+Added Net: Name=NetD5_1
+Added Net: Name=NetD5_2
+Added Net: Name=NetD6_1
+Added Net: Name=NetD6_2
+Added Net: Name=NetD7_1
+Added Net: Name=NetD7_2
+Added Net: Name=NetD8_1
+Added Net: Name=NetD8_2
+Added Net: Name=NetD9_2
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetF1_2 Pin=J13-2
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=VR1-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=VR1-1
+Added Net: Name=NetJ2_2
+Added Net: Name=NetJ3_1
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ4_1
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=LS1-P
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=LS2-P
+Added Net: Name=NetJ7_4
+Added Net: Name=NetJ8_1
+Added Net: Name=NetJ8_3
+Added Net: Name=NetJ8_4
+Added Net: Name=NetJ8_5
+Added Net: Name=NetJ8_7
+Added Net: Name=NetJ8_8
+Added Net: Name=NetJ8_9
+Added Net: Name=NetJ8_10
+Added Net: Name=NetJ8_11
+Added Net: Name=NetJ8_12
+Added Net: Name=NetJ8_13
+Added Net: Name=NetJ10_1
+Added Net: Name=NetJ10_2
+Added Net: Name=NetJ10_3
+Added Net: Name=NetJ10_4
+Added Net: Name=NetJ10_5
+Added Net: Name=NetJ10_6
+Added Net: Name=NetJ10_7
+Added Net: Name=NetJ10_8
+Added Net: Name=NetJ10_9
+Added Net: Name=NetJ10_10
+Added Net: Name=NetJ10_11
+Added Net: Name=NetJ10_12
+Added Net: Name=NetJ10_13
+Added Pin To Net: NetName=NetJ12_2 Pin=J12-2
+Added Net: Name=NetJ12_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Add Class Member: Failed to add class member : Component C1 0.1
+Add Class Member: Failed to add class member : Component C2 0.1
+Add Class Member: Failed to add class member : Component C3 0.1
+Add Class Member: Failed to add class member : Component D1 LED 1206(R)
+Add Class Member: Failed to add class member : Component D2 LED 1206(R)
+Add Class Member: Failed to add class member : Component D3 LED 1206(R)
+Add Class Member: Failed to add class member : Component D4 LED 1206(R)
+Add Class Member: Failed to add class member : Component D5 LED 1206(R)
+Add Class Member: Failed to add class member : Component D6 LED 1206(R)
+Add Class Member: Failed to add class member : Component D7 LED 1206(R)
+Add Class Member: Failed to add class member : Component D8 LED 1206(R)
+Add Class Member: Failed to add class member : Component D9 LED 1206(R)
+Add Class Member: Failed to add class member : Component D10 1N4148
+Add Class Member: Failed to add class member : Component D11 LED 1206(R)
+Add Class Member: Failed to add class member : Component D12 1N4148
+Add Class Member: Failed to add class member : Component F1 DHT11
+Add Class Member: Failed to add class member : Component J1 CON8
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J2 PPTC041LFBN-RC
+Add Class Member: Failed to add class member : Component J3 CON2
+Add Class Member: Failed to add class member : Component J4 CON2
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J5 PPPC022LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J6 PPTC041LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J7 PPPC022LFBN-RC
+Add Class Member: Failed to add class member : Component J8 CON15
+Add Class Member: Failed to add class member : Component J9 CON15
+Add Class Member: Failed to add class member : Component J10 CON15
+Add Class Member: Failed to add class member : Component J11 CON15
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J12 PPPC022LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component J13 PPPC022LFBN-RC
+Added Member To Class: ClassName=IOT_ver.1 Member=Component LS1 AI-1223-TWT-12V-R
+Added Member To Class: ClassName=IOT_ver.1 Member=Component LS2 AI-1223-TWT-12V-R
+Added Member To Class: ClassName=IOT_ver.1 Member=Component Q1 MMBT3904
+Added Member To Class: ClassName=IOT_ver.1 Member=Component Q2 MMBT3904
+Add Class Member: Failed to add class member : Component R1 1k
+Add Class Member: Failed to add class member : Component R2 1k
+Add Class Member: Failed to add class member : Component R3 1k
+Add Class Member: Failed to add class member : Component R4 1k
+Add Class Member: Failed to add class member : Component R5 1k
+Add Class Member: Failed to add class member : Component R6 1k
+Add Class Member: Failed to add class member : Component R7 1k
+Add Class Member: Failed to add class member : Component R8 1k
+Add Class Member: Failed to add class member : Component R9 1k
+Add Class Member: Failed to add class member : Component R10 3.3K
+Add Class Member: Failed to add class member : Component R11 1k
+Add Class Member: Failed to add class member : Component R12 3.3K
+Add Class Member: Failed to add class member : Component R13 1k
+Add Class Member: Failed to add class member : Component RY1 RELAY1C(5)
+Add Class Member: Failed to add class member : Component RY2 RELAY1C(5)
+Added Member To Class: ClassName=IOT_ver.1 Member=Component VR1 3296W-OT1-204
+Added Room: Name=IOT_ver.1
